@@ -4,6 +4,14 @@
  
 2. Extract Pose using Media-Pipe
   2.1. Install Media-Pipe [Here](https://github.com/google/mediapipe/blob/master/docs/solutions/pose.md)
-3. Run Media-Pipe on input data using 
+3. Run Media-Pipe on input data using extract_pose_mediapipe.py
+   
+```
+python extract_pose_mediapipe.py
+```
 
-# Fingerspelling-PoseNet
+4. Run
+
+```
+python train_with_lm.py
+```
