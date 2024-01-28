@@ -1,5 +1,7 @@
-# Fingerspelling PoseNet: Enhancing Fingerspelling Translation with Pose-Based Transformer Models: 
+# [Fingerspelling PoseNet](https://arxiv.org/pdf/2311.12128.pdf): Enhancing Fingerspelling Translation with Pose-Based Transformer Models: 
 ![alt text](model.jpg)
+
+
 
 1. Download the Chicago Fingerspelling dataset from [Here](https://home.ttic.edu/~klivescu/ChicagoFSWild.htm)
  
