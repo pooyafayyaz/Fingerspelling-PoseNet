@@ -18,3 +18,6 @@ python extract_pose_mediapipe.py
 ```
 python train_with_lm.py
 ```
+
+# Pre-trained models
+To access the pre-trained model, use this [link](https://drive.google.com/drive/folders/1NqTmj-fk2L6VEWOpoFX4gKeSZxdXvHW7?usp=sharing). 
